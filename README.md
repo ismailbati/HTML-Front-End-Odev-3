@@ -1,2 +1,2 @@
-# HTML-Front-End-dev-3-ikolatal-K-p-Tarifi
-Ogen'len bilgileri uygulayarak yemek tarifi sayfasi yapma
+# HTML-Front-End-Ödev 3 Çikolata Küpleri Tarifi
+Ogrenilen bilgileri uygulayarak yemek tarifi sayfasi yapma
